@@ -7,7 +7,7 @@
 <h3> And I have delivered effective production to 2+ companies, from startups to Fortune 500s. 🚢 </h3>
 <p><a href="https://imagineweb.tech/" target="_blank">Imagine Web LLC</a> : Web development company that specializes in creating custom websites and web applications for businesses and organizations. 👑💻</p>
 <p><a href="https://epages.com/en/" target="_blank">ePages</a> : Cloud-based e-commerce platform that allows businesses to create online stores.🛒🎁 </p>
-<h3>🥇🏆🎖Certification of my skills can be found here. </h3>
+<h3>🥇🏆🎖Certificates of my skills can be found here. </h3>
 <ul style="display: grid;grid-template-columns: 1fr 1fr 1fr;font-size:16px;line-height:1.5;">
 	<li><a href="https://www.hackerrank.com/certificates/a11b1a5c54f5" target="_blank">Angular (Intermediate) Certificate✅</a></li>
 	<li><a href="https://www.hackerrank.com/certificates/8a69dd3e510f" target="_blank">JavaScript (Intermediate) Certificate✅</a></li>
