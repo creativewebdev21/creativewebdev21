@@ -80,3 +80,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bradtraversy&show_icons=true&theme=blue-green&amp;border_color=001F1E&amp;text_color=09d672&amp;icon_color=00C2C2&amp;title_color=00F1E9&amp;custom_title=Stats" alt="My Github Stats" width="100%" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=creativewebdev21&show_icons=true&theme=gotham&custom_title=Stats" alt="My Github Stats" width="100%" />-->
 
+## Wanna have a chat?
+Telegram(https://t.me/CreativeDeV51)
+Skype(live:.cid.ff59ba71965f5ba7)
